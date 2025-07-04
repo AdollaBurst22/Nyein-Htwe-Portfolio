@@ -222,7 +222,7 @@ h6 {
     padding: 0 5px 0 7px;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1024px) {
 
     .navmenu a,
     .navmenu a:focus {
@@ -304,11 +304,6 @@ h6 {
 .footer .social-links a:hover {
     background: color-mix(in srgb, var(--accent-color), transparent 20%);
     text-decoration: none;
-}
-
-.footer .copyright {
-    padding-top: 25px;
-    border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
 }
 
 .footer .credits {
